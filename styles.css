@@ -1,0 +1,27 @@
+body {
+  background-color: white;
+}
+
+h3 {
+  color: white;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar-brand {
+  background-color: turquoise;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.col-4, .col-6 {
+  background-color: turquoise;
+}
+
+.card-header {
+  background-color: white;
+  color: turquoise;
+  text-align: center;
+}
